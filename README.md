@@ -1,6 +1,6 @@
 # LUCIDO
 <p align="center">
-  <img src="https://media.giphy.com/media/SnVZO1N0Wo6u4/giphy.gif">
+  <img src="https://telegra.ph/file/6c240cabc4b0a0192485a.jpg">
 </p>
 
 
